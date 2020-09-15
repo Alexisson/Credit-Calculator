@@ -1,0 +1,20 @@
+C:\Users\ivana\source\repos\CreditCalc\CreditCalc\bin\Debug\CreditCalc.exe.config
+C:\Users\ivana\source\repos\CreditCalc\CreditCalc\bin\Debug\CreditCalc.exe
+C:\Users\ivana\source\repos\CreditCalc\CreditCalc\bin\Debug\CreditCalc.pdb
+C:\Users\ivana\source\repos\CreditCalc\CreditCalc\obj\Debug\CreditCalc.csprojAssemblyReference.cache
+C:\Users\ivana\source\repos\CreditCalc\CreditCalc\obj\Debug\CreditCalc.Form1.resources
+C:\Users\ivana\source\repos\CreditCalc\CreditCalc\obj\Debug\CreditCalc.Properties.Resources.resources
+C:\Users\ivana\source\repos\CreditCalc\CreditCalc\obj\Debug\CreditCalc.csproj.GenerateResource.cache
+C:\Users\ivana\source\repos\CreditCalc\CreditCalc\obj\Debug\CreditCalc.csproj.CoreCompileInputs.cache
+C:\Users\ivana\source\repos\CreditCalc\CreditCalc\obj\Debug\CreditCalc.exe
+C:\Users\ivana\source\repos\CreditCalc\CreditCalc\obj\Debug\CreditCalc.pdb
+D:\My Progs\C#\CreditCalc\CreditCalc\bin\Debug\CreditCalc.exe.config
+D:\My Progs\C#\CreditCalc\CreditCalc\bin\Debug\CreditCalc.exe
+D:\My Progs\C#\CreditCalc\CreditCalc\bin\Debug\CreditCalc.pdb
+D:\My Progs\C#\CreditCalc\CreditCalc\obj\Debug\CreditCalc.csprojAssemblyReference.cache
+D:\My Progs\C#\CreditCalc\CreditCalc\obj\Debug\CreditCalc.Form1.resources
+D:\My Progs\C#\CreditCalc\CreditCalc\obj\Debug\CreditCalc.Properties.Resources.resources
+D:\My Progs\C#\CreditCalc\CreditCalc\obj\Debug\CreditCalc.csproj.GenerateResource.cache
+D:\My Progs\C#\CreditCalc\CreditCalc\obj\Debug\CreditCalc.exe
+D:\My Progs\C#\CreditCalc\CreditCalc\obj\Debug\CreditCalc.pdb
+D:\My Progs\C#\CreditCalc\CreditCalc\obj\Debug\CreditCalc.Operations.resources

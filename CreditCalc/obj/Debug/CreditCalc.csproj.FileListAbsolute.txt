@@ -18,3 +18,14 @@ D:\My Progs\C#\CreditCalc\CreditCalc\obj\Debug\CreditCalc.csproj.GenerateResourc
 D:\My Progs\C#\CreditCalc\CreditCalc\obj\Debug\CreditCalc.exe
 D:\My Progs\C#\CreditCalc\CreditCalc\obj\Debug\CreditCalc.pdb
 D:\My Progs\C#\CreditCalc\CreditCalc\obj\Debug\CreditCalc.Operations.resources
+D:\CDATA\Downloads\C#\CreditCalc\CreditCalc\CreditCalc\bin\Debug\CreditCalc.exe.config
+D:\CDATA\Downloads\C#\CreditCalc\CreditCalc\CreditCalc\bin\Debug\CreditCalc.exe
+D:\CDATA\Downloads\C#\CreditCalc\CreditCalc\CreditCalc\bin\Debug\CreditCalc.pdb
+D:\CDATA\Downloads\C#\CreditCalc\CreditCalc\CreditCalc\obj\Debug\CreditCalc.csprojAssemblyReference.cache
+D:\CDATA\Downloads\C#\CreditCalc\CreditCalc\CreditCalc\obj\Debug\CreditCalc.Form1.resources
+D:\CDATA\Downloads\C#\CreditCalc\CreditCalc\CreditCalc\obj\Debug\CreditCalc.Operations.resources
+D:\CDATA\Downloads\C#\CreditCalc\CreditCalc\CreditCalc\obj\Debug\CreditCalc.Properties.Resources.resources
+D:\CDATA\Downloads\C#\CreditCalc\CreditCalc\CreditCalc\obj\Debug\CreditCalc.csproj.GenerateResource.cache
+D:\CDATA\Downloads\C#\CreditCalc\CreditCalc\CreditCalc\obj\Debug\CreditCalc.csproj.CoreCompileInputs.cache
+D:\CDATA\Downloads\C#\CreditCalc\CreditCalc\CreditCalc\obj\Debug\CreditCalc.exe
+D:\CDATA\Downloads\C#\CreditCalc\CreditCalc\CreditCalc\obj\Debug\CreditCalc.pdb
